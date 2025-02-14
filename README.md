@@ -1,7 +1,6 @@
 <h1 align="center">Hi! I'm Yashasvi Bhati</h1>
 <h3 align="center">A Software Developer</h3>
-<img align="right" alt="coding" width="200"src="https://iconscout.com/lottie-animations/female-web-developer">
-
+<img align="right" alt="coding" width="200"src="![image](https://github.com/user-attachments/assets/37f3b9c8-972c-4e93-bacb-db8e63fe0d8c)">
 
 
 - 🌱 I’m currently learning **React**
