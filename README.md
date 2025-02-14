@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML,CSS,Javascript,JAVA, UX/UIDesign,GraphicDesign,**
+- 💬 Ask me about **HTML, CSS, Javascript, JAVA, UX/UIDesign, GraphicDesign,**
 
 - 📫 How to reach me **yashasvibhati1326@gmail.com**
 
