@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm Yashasvi Bhati</h1>
 <h3 align="center">A Software Developer</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-development-pack-website-animations-6031664.mp4">
+
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML,CSS,Javascript,JAVA, UX/UIDesign,GraphicDesign,**
